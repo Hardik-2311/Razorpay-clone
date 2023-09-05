@@ -16,6 +16,7 @@ module.exports = {
       grayBlue: "#344a6c",
       deepBlueHead: "#162f56",
       gray2: "#525a76",
+      bck:"linear-gradient(180deg, rgba(74, 144, 245, 0.21) -34.7%, rgba(125, 186, 244, 0.063) 100%, rgba(125, 186, 244, 0.1295) 100%)",
     },},
   },
   plugins: [],
